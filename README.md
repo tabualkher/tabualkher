@@ -95,6 +95,7 @@ I sit at the intersection of two worlds that rarely meet:
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarek_Abualkher-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarek-abualkher-961841b0/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Tarek_Abualkher-0077B5?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/tabualkher)
 [![Email](https://img.shields.io/badge/Email-t__abualkher@hotmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:t_abualkher@hotmail.com)
 
 -----
